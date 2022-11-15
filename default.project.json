@@ -1,0 +1,11 @@
+{
+  "name": "Console",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "Console": {
+        "$path": "src"
+      }
+    }
+  }
+}
